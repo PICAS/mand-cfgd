@@ -20,6 +20,8 @@
 #include <ctype.h>
 #include <limits.h>
 
+#include <net/if.h>
+
 #include <netlink/route/link.h>
 #include <netlink/route/addr.h>
 #include <netlink/route/neighbour.h>
